@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tortoise/pypika-tortoise/commit/e175c9c1a685d060477e325e126cf0b500d88b48",
       "git:hexsha": "e175c9c1a685d060477e325e126cf0b500d88b48",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tortoise/pypika-tortoise/commit/beaf8511f3823b41b04cf16083c2f94d48a18438",
