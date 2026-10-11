@@ -1,0 +1,11 @@
+{
+  "org": "tortoise",
+  "repo": "pypika-tortoise",
+  "versions": [
+    {
+      "commit": "e175c9c1a685d060477e325e126cf0b500d88b48",
+      "tag": "",
+      "parsed_at": "2026-10-11T05:10:14.786839+00:00"
+    }
+  ]
+}
